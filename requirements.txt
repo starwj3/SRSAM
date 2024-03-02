@@ -1,6 +1,6 @@
 sqlalchemy
 pymysql
-padas
+pandas
 numpy
 fred
 fredapi
