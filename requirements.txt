@@ -1,0 +1,8 @@
+sqlalchemy
+pymysql
+padas
+numpy
+fred
+fredapi
+streamlit
+reuests
