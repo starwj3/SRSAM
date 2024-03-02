@@ -5,5 +5,5 @@ numpy
 fred
 fredapi
 streamlit
-reuests
+rqeuests
 yfinance
