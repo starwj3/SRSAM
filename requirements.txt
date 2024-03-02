@@ -6,3 +6,4 @@ fred
 fredapi
 streamlit
 reuests
+yfinance
